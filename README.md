@@ -1,2 +1,2 @@
 # webpack4-simple
-Webpack 4, Vuejs and Babel
+Nodejs, Vuejs, Webpack 4, Heroku, Babel
