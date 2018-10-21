@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2></h2>
+    <h1>Success!</h1>
   </div>
 </template>
 
@@ -9,7 +9,7 @@ export default {};
 </script>
 
 <style>
-h2 {
+h1 {
   background-color: blanchedalmond;
 }
 </style>
