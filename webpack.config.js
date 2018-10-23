@@ -33,6 +33,7 @@ module.exports = {
   },
   devServer: {
     historyApiFallback: true,
+    noInfo: true,
     overlay: true
   },
   plugins: [
